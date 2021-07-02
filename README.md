@@ -18,8 +18,8 @@ With a tiring one week effort here it is -
 
 #### Wondering where's the portfolio then -
 #### Guess what ? What do developers love the most - yay !! Its Command Prompt
-####Find my complete portfolio in the cmd 
-####use the commands like cd , ls 
+#### Find my complete portfolio in the cmd 
+#### use the commands like cd , ls 
 #### !-- Note  If the Cmd does'nt load try refresing the webiste once & also some icons are static ,working on them :))---!
 
 - If you loved my work , do star the repo :)
