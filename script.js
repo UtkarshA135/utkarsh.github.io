@@ -163,7 +163,7 @@ trash.addEventListener("click", ()=>{
   atag.click();
 })
 cmd.addEventListener("click", ()=>{
-    myFunction();
+    window.open("https://utkarsha135.github.io/cmd-port/","popup","width:800,height:600");
 })
 
 thispc.addEventListener("click", ()=>{
@@ -182,7 +182,7 @@ vscode.addEventListener("click", ()=>{
 })
 
 todo.addEventListener("click", ()=>{
-    window.open('','popup','width=850,height=600');
+    window.open("https://fast-sierra-69225.herokuapp.com/",'popup','width=850,height=600');
 })
 
 notes.addEventListener("click", ()=>{

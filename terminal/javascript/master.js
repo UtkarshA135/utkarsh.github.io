@@ -13,7 +13,7 @@ $.fn.typewriter = function() {
         b = c.html(),
         a = 0,
         d = 0;
-      c.html("");
+     // c.html("");
       var e = function() {
         if ("<" == b.substring(a, a + 1)) {
           var f = new RegExp(/<span class="instant"/),
