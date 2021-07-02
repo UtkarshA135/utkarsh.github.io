@@ -28,7 +28,12 @@ let todo = document.getElementsByClassName("todo")[0]
 
 
 
-
+window.onload = function() {
+    if(!window.location.hash) {
+        window.location = window.location + '#loaded';
+        window.location.reload();
+    }
+}
 widgetsd.addEventListener("mouseover", ()=>{
     console.log("clicked");
     if(widget.style.right == "-50px"){
