@@ -21,7 +21,7 @@ With a tiring one week effort here it is -
 #### Find my complete portfolio in the cmd 
 #### use the commands like cd , ls 
 #### !-- Note  If the Cmd does'nt load try refresing the webiste once & also some icons are static ,working on them :))---!
-
+- If CMD is still causing issues you can look at it seprately - view_here(https://utkarsha135.github.io/cmd-port/)
 - If you loved my work , do star the repo :)
 
 ### Best thing about this - Its Open source and made in HTML , CSS and JS . No libraries used ... so all developers can contribute.
